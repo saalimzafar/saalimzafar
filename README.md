@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Saalim Zafar
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning Reactjs and Nextjs.
-- 💞️ I’m looking to for a web developer role
+- 💞️ I’m looking for a web developer role
 
 
 <!---
