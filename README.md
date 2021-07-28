@@ -1,10 +1,3 @@
-- 👋 Hi, I’m Saalim Zafar
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning Reactjs and Nextjs.
-- 💞️ I’m looking for a web developer role
+## Hi, I'm Saalim Zafar
+### A self taught programmer who loves to code and build digital products.
 
-
-<!---
-saalimzafar/saalimzafar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
